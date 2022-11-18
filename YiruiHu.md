@@ -29,7 +29,7 @@ Intern Urban Planner(Urban analysis direction),Wuhan
   - Participated in the Wuhan renewal project; implemented the coordinated planning; redesigned the community’s landscape and public transport system networks.
 Jan 2021 - Jul 2021
 ### Research Experience
-**Research on relationship between carbon emission and economic growth**,research member
+**Research on relationship between carbon emission and economic growth,research member**
 Jul 2022 - Nov 2022
 
 *Research on decoupling relationship and factors analysis in APEC countries*
@@ -44,8 +44,19 @@ Jul 2022 - Nov 2022
 **Research on relationship between clean energy consumption and economic growth inthe Yangtze River urban agglomeration**
 Feb 2022 - May 2022
 - Validated bidirectional causal inference and redesigned a VAR model to forecast the relationship development trends.
-
-
+### Project
+**Student Innovation Training Program,Team Leader**
+Nov 2020 - Apr 2022
+*Demand-based optimization of slow Transport systems in Historic District*
+- Classified potential travel crowds through the Analytic Hierarchy Process model; assigned weights to travel destinations based on crowd preference.
+- Settled SP-off-RP model to measure the cost of the transportation mode; utilized RP and SP to jointly model together to obtain new parameters.
+- Established the travel starting point and destination within the research scope; calculated the feasible scope of traffic travel based on the OD matrix.
+- Employed the origin-to-destination path optimization within the research range through the DFS algorithm; found the shortest path.
+**National Digital-Design-Dimension Innovation Competition,Team Leader**
+Sep 202 -Dec 2020
+*Technology-based Batch Urban 3D Rapid Modeling application*
+- Employed CityEngine as 3D modeling platform,research on the urban rapid 3D modeing techology based on CGA rule.
+- Optimized the 3D geological modeling and building texture segmentation process analysis system based on ArcGIS.
 ## Research Interests
 ML for addressing digital and smart city issues
 DL for transport forecasting and route planning
