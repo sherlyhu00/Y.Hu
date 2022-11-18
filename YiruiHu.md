@@ -26,3 +26,18 @@ Aug 2022 - Nov 2022
 Intern Urban Planner(Urban analysis direction),Wuhan
 Jan 2021 - Jul 2021
 ### Research Experience
+**Research on relationship between carbon emission and economic growth**,research member
+Jul 2022 - Nov 2022
+*Research on decoupling relationship and factors analysis in APEC countries*
+- Analysed the Carbon decoupling in APEC over the period 1990-2019; employed the framework of the Kaya identity.
+- Analyzed the long-term and short-term carbon emission factors by combining STIRPAT and the log-mean divisor index (LMDI).
+*Research on relationship and forecast in Zhejiang and Anhui provinces*
+- Performed the EKC test to fit the EKC of carbon emissions and economic growth.
+- Analyzed the type and inflection point of the EKC curve and performed regression analysis on the data.
+
+**Research on relationship between clean energy consumption and economic growth inthe Yangtze River urban agglomeration**
+Feb 2022 - May 2022
+- Validated bidirectional causal inference and redesigned a VAR model to forecast the relationship development trends.
+### Research Interests
+ML for addressing digital and smart city issues
+DL for transport forecasting and route planning
