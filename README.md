@@ -12,8 +12,8 @@ Feb 2020 - May 2022
 [School of Economics](http://eco.hust.edu.cn/),  
 [Huazhong university of technology and science](https://www.hust.edu.cn), Wuhan，China  
 
-[LinkedIn](https://www.linkedin.com/in/yirui-hu-13a015210/)  
-[Mail](nochkosleten@gmail.com)
+[LinkedIn:YiruiHu](https://www.linkedin.com/in/yirui-hu-13a015210/)  
+[Mail:nochkosleten@gmail.com](nochkosleten@gmail.com)
 ## Experience
 ### Professional Experience
 #### CityDNA Technology Co.,ltd.
