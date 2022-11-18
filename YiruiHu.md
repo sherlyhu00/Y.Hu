@@ -66,8 +66,17 @@ Sep 202 -Dec 2020
 
 ## Skills
 - Programming:**Python**,**MATLAB**,**LaTeX**,**R**,**SQL**
-- Language:**Mandarin（native）**，**English（fluent)**，**German(Advanced)**
+- Language:**Mandarin(native)**,**English(fluent)**,**German(Advanced)**
 
 ## Research Interests
-ML for addressing digital and smart city issues
-DL for transport forecasting and route planning
+- ML for addressing digital and smart city issues
+- DL for transport forecasting and route planning
+
+## Hobby
+Hiking outdoors,Diving,Skateboard,Skiing,Tennis\
+Travel,Landscape photography\
+Audiovisual arts(Experienced in English talk show radio programs)
+
+
+
+
