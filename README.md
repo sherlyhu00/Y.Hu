@@ -23,7 +23,7 @@ Aug 2022 - Nov 2022
   - Collaborated with data analysts and database developers to support city assessment efforts; build city databases and quantitative assessment models by integrating data from multiple sources.
   - Participated in urban map data analysis; cleaned and pre-processed spatial data; formed editable map data through classification and transformation.
   
-#### WHUT design \&  research Co.,ltd.
+#### WHUT design & research Co.,ltd.
 Intern Urban Planner(Urban analysis direction),Wuhan
 Jan 2021 - Jul 2021
   - Responsible for interpreting data from transport studies to deal with traffic station operations and planning.
