@@ -1,6 +1,6 @@
 
 # Yirui Hu
-#Education
+## Education
 
 B.Eng.in Urban and rural planning,  
 [School of Architecture and Urban Planning](http://aup.hust.edu.cn/),  
@@ -11,4 +11,4 @@ B.Ec.in Economics,
 [Huazhong university of technology and science](https://www.hust.edu.cn), Wuhan，China  
 
 [LinkedIn](https://www.linkedin.com/in/yirui-hu-13a015210/)  
-Mail: YiruiHu[anochkosleten@gmail.com]
+Mail: YiruiHu[nochkosleten@gmail.com]
