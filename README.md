@@ -13,7 +13,7 @@ Feb 2020 - May 2022
 [Huazhong university of technology and science](https://www.hust.edu.cn), Wuhan，China  
 
 [LinkedIn](https://www.linkedin.com/in/yirui-hu-13a015210/)  
-Mail: YiruiHu[nochkosleten@gmail.com]
+[Mail](nochkosleten@gmail.com)
 ## Experience
 ### Professional Experience
 #### CityDNA Technology Co.,ltd.
