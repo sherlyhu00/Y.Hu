@@ -46,9 +46,11 @@ Jul 2022 - Nov 2022
 **Research on relationship between clean energy consumption and economic growth inthe Yangtze River urban agglomeration**
 Feb 2022 - May 2022
 - Validated bidirectional causal inference and redesigned a VAR model to forecast the relationship development trends.
+
 ### Project
 **Student Innovation Training Program,Team Leader**
 Nov 2020 - Apr 2022
+
 *Demand-based optimization of slow Transport systems in Historic District*
 
 - Classified potential travel crowds through the Analytic Hierarchy Process model; assigned weights to travel destinations based on crowd preference.
@@ -58,6 +60,7 @@ Nov 2020 - Apr 2022
 
 **National Digital-Design-Dimension Innovation Competition,Team Leader**
 Sep 202 -Dec 2020
+
 *Technology-based Batch Urban 3D Rapid Modeling application*
 
 - Employed CityEngine as 3D modeling platform,research on the urban rapid 3D modeing techology based on CGA rule.
