@@ -82,6 +82,6 @@ Hiking outdoors,Diving,Skateboard,Skiing,Tennis\
 Travel,Landscape photography\
 Audiovisual arts(Experienced in English talk show radio programs)
 
-
-
+## Friends
+[Junhua Liu,CUHKSZ](https://junhualiu0.github.io/)
 
