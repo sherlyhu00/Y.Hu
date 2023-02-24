@@ -1,6 +1,7 @@
 
 # Yirui Hu
-Undergraduate students(2023)
+Undergraduate students(2023Sp)
+Upcoming graduate student(2023Fa)
 
 ## Education
 
@@ -67,11 +68,6 @@ Sep 202 -Dec 2020
 
 - Employed CityEngine as 3D modeling platform,research on the urban rapid 3D modeing techology based on CGA rule.
 - Optimized the 3D geological modeling and building texture segmentation process analysis system based on ArcGIS.
-
-
-## Skills
-- Programming:**Python**,**MATLAB**,**LaTeX**,**R**,**SQL**
-- Language:**Mandarin(native)**,**English(fluent)**,**German(Advanced)**
 
 ## Research Interests
 - ML for addressing digital and smart city issues
