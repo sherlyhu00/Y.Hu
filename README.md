@@ -1,7 +1,7 @@
 
 # Yirui Hu
 Undergraduate students(2023Sp)
-Upcoming graduate student(2023Fa)
+Upcoming graduate student of [Georgia Institute of Technology](https://www.gatech.edu/) (2023Fa)
 
 ## Education
 
@@ -70,8 +70,10 @@ Sep 202 -Dec 2020
 - Optimized the 3D geological modeling and building texture segmentation process analysis system based on ArcGIS.
 
 ## Research Interests
-- ML for addressing digital and smart city issues
-- DL for transport forecasting and route planning
+- Urban informatics/Urban computing
+- Data science
+- Travel Behaviour/Transportation planning/Logistics strategy
+
 
 ## Hobby
 Hiking outdoors,Diving,Skateboard,Skiing,Tennis\
