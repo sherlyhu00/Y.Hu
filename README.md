@@ -1,6 +1,7 @@
 
 # Yirui Hu
-Undergraduate students(2023Sp)
+Undergraduate students of [Huazhong university of technology and science](https://www.hust.edu.cn)(2023Sp)
+
 Upcoming graduate student of [Georgia Institute of Technology](https://www.gatech.edu/) (2023Fa)
 
 ## Education
