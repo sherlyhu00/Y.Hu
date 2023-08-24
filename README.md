@@ -1,13 +1,19 @@
 
 # Yirui Hu
-Undergraduate students of [Huazhong university of technology and science](https://www.hust.edu.cn)(2023Sp)
 
-Upcoming graduate student of [Georgia Institute of Technology](https://www.gatech.edu/) (2023Fa)
+graduate student of [Georgia Institute of Technology](https://www.gatech.edu/) 
+
+Undergraduate student of [Huazhong University of Technology and Science (https://www.hust.edu.cn)
 
 ## Education
+M.S. City and Region Planning and Geographic Information Science and Technology
+Aug 2023 - Present
+[School of City and Regional Planning,College of Design](https://planning.gatech.edu/),  
+[Georgia Institute of Technology](https://www.gatech.edu/), Atlanta，United States  
 
-B.Eng.in Urban and rural planning,  
-Sep 2018 - Present
+
+B.Eng. Urban and rural planning,  
+Sep 2018 - June 2023
 [School of Architecture and Urban Planning](http://aup.hust.edu.cn/),  
 [Huazhong university of technology and science](https://www.hust.edu.cn), Wuhan，China  
 
@@ -72,15 +78,15 @@ Sep 202 -Dec 2020
 - Optimized the 3D geological modeling and building texture segmentation process analysis system based on ArcGIS.
 
 ## Research Interests
-- Urban informatics/Urban computing
-- Data science
-- Travel Behaviour/Transportation planning/Logistics strategy
+- Urban informatics and urban computing
+- Data science and data visualization
+- Travel behavior, transportation planning, and logistics strategy
 
 
 ## Hobby
 Hiking outdoors,Diving,Skateboard,Skiing,Tennis\
 Travel,Landscape photography\
-Audiovisual arts(Experienced in English talk show radio programs)
+Audiovisual arts (experienced in English talk show radio programs)
 
 ## Friends
 [Junhua Liu,CUHKSZ](https://junhualiu0.github.io/)
