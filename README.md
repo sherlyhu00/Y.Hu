@@ -1,9 +1,9 @@
 
-# Yirui Hu
+# Yirui(Shirley)Hu
 
 graduate student of [Georgia Institute of Technology](https://www.gatech.edu/) 
 
-Undergraduate student of [Huazhong University of Technology and Science (https://www.hust.edu.cn)
+Undergraduate student of [Huazhong University of Technology and Science] (https://www.hust.edu.cn)
 
 ## Education
 M.S. City and Region Planning and Geographic Information Science and Technology
