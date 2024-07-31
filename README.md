@@ -5,6 +5,25 @@ graduate student of [Georgia Institute of Technology](https://www.gatech.edu/)
 
 Undergraduate student of [Huazhong university of technology and science](https://www.hust.edu.cn)
 
+## Finsihed Work
+
+**How transfer location impact public transit accessibility?Case Study in San Francisco Muni Metro System**
+- Link to the Protfolio:[How transfer location impact public transit accessibility?](https://arcg.is/1OeKTG1)
+
+  
+
+
+## Ongoing Porject
+**Intergrating Travel Impedance for wheelchair users in route planning**
+Apr 2024 - Present
+
+- Collaborating on OSM mapping pedestrian and crossing links identifying work.
+- Engage in sidewalk-to-bus transfer link identification and impedance assignment in the transport system, adhering to the additive impedance factor methodology for bus stop design and condition problems.
+- Utilize the impedance calculation methods, adhering to the variable and structure conventions for compatibility with ADA inspections and Navigation app implementation.
+
+
+
+
 ## Education
 M.S. City and Region Planning and Geographic Information Science and Technology
 Aug 2023 - Present
