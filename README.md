@@ -5,7 +5,7 @@ graduate student of [Georgia Institute of Technology](https://www.gatech.edu/)
 
 Undergraduate student of [Huazhong university of technology and science](https://www.hust.edu.cn)
 
-## Finsihed Work
+## Finished Work
 
 **How transfer location impact public transit accessibility?Case Study in San Francisco Muni Metro System**
 - Link to the Protfolio:[How transfer location impact public transit accessibility?](https://arcg.is/1OeKTG1)
