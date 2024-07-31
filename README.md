@@ -10,7 +10,7 @@ Undergraduate student of [Huazhong university of technology and science](https:/
 **How transfer location impact public transit accessibility?Case Study in San Francisco Muni Metro System**
 - Link to the work:[How transfer location impact public transit accessibility?](https://arcg.is/1OeKTG1)
 
-- Link to the work:  [Optimization of Electric Vehicle charge Locations](https://github.com/sherlyhu00/yhu.github.io/blob/main/Optimization%20of%20Electric%20Vehicle%20charge%20Locations.pdf)
+- Link to the work:  [Optimization of Electric Vehicle charge Locations](https://arcg.is/5vajX0)
 
 
 ## Ongoing Porject
