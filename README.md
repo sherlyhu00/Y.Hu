@@ -5,7 +5,7 @@ graduate student of [Georgia Institute of Technology](https://www.gatech.edu/)
 
 Undergraduate student of [Huazhong university of technology and science](https://www.hust.edu.cn)
 
-## Finished Work
+## ArcGIS Story Map
 
 
 - Link to the work: [How transfer location impact public transit accessibility?](https://arcg.is/1OeKTG1)
