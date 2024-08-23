@@ -5,12 +5,9 @@ graduate student of [Georgia Institute of Technology](https://www.gatech.edu/)
 
 Undergraduate student of [Huazhong university of technology and science](https://www.hust.edu.cn)
 
-## ArcGIS Story Map
+## Work Portfolio 
 
-
-- Link to the work: [How transfer location impact public transit accessibility?](https://arcg.is/1OeKTG1)
-
-- Link to the work: [Optimization of Electric Vehicle charge Locations](https://arcg.is/5vajX0)
+Check my past project related to transportation and GIS field [Work Portfolio](https://github.com/sherlyhu00/Work/tree/main)
 
 
 ## Ongoing Porject
